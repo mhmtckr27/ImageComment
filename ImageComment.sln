@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReSharperPlugin.ImageComment", "src\dotnet\ReSharperPlugin.ImageComment\ReSharperPlugin.ImageComment.csproj", "{84C2F570-2941-4468-AF00-D6016E1E7C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReSharperPlugin.ImageComment.Rider", "src\dotnet\ReSharperPlugin.ImageComment\ReSharperPlugin.ImageComment.Rider.csproj", "{C375EFD4-1EB4-4D2B-BE88-FF8092015796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReSharperPlugin.ImageComment.Tests", "src\dotnet\ReSharperPlugin.ImageComment.Tests\ReSharperPlugin.ImageComment.Tests.csproj", "{A4F37825-2286-47B1-BBB7-50C67F1B470E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84C2F570-2941-4468-AF00-D6016E1E7C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C2F570-2941-4468-AF00-D6016E1E7C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C2F570-2941-4468-AF00-D6016E1E7C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C2F570-2941-4468-AF00-D6016E1E7C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C375EFD4-1EB4-4D2B-BE88-FF8092015796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C375EFD4-1EB4-4D2B-BE88-FF8092015796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C375EFD4-1EB4-4D2B-BE88-FF8092015796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C375EFD4-1EB4-4D2B-BE88-FF8092015796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4F37825-2286-47B1-BBB7-50C67F1B470E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F37825-2286-47B1-BBB7-50C67F1B470E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F37825-2286-47B1-BBB7-50C67F1B470E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F37825-2286-47B1-BBB7-50C67F1B470E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿<Project>
+
+  <PropertyGroup>
+    <!-- See https://www.nuget.org/packages/JetBrains.ReSharper.SDK -->
+    <!-- Keep in sync with ProductVersion in gradle.properties -->
+    <SdkVersion>2024.3.8</SdkVersion>
+
+    <Title>Image Comment</Title>
+    <Description>Description</Description>
+
+    <Authors>Gray Wolf Studio</Authors>
+    <Copyright>Copyright $([System.DateTime]::Now.Year) Maintainers of Image Comment</Copyright>
+    <PackageTags>resharper plugin</PackageTags>
+
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageIconUrl></PackageIconUrl>
+  </PropertyGroup>
+
+</Project>
